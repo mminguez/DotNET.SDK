@@ -8,5 +8,3 @@ repository: https://github.com/dolittle-runtime/DotNET.SDK
 ---
 
 This section describes the SDK for [.NET Core](https://www.microsoft.com/net).
-
-text
